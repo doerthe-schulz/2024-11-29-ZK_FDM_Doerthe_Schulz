@@ -1,3 +1,4 @@
+# Author: Dörthe Schulz
 # Das ist mein erstes Bash Skript
 
 echo "Skript startet"
